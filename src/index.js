@@ -5,6 +5,7 @@ const Links = {
 	'/linkedin': 'https://www.linkedin.com/in/udbhav-sai-kukkadapu-a36a93287/',
 	'/github': 'https://github.com/udbhav07',
 	'/portfolio': 'https://udbhavsai.com',
+	'/life':'https://udbhavsai.com/life',
 	'': 'https://udbhavsai.com',
 };
 
