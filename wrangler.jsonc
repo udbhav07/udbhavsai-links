@@ -1,7 +1,8 @@
 {
-	"name": "<WORKER_NAME>",
+	"name": "udbhavsai-links",
 	"main": "src/index.js",
-	"compatibility_date": "<COMPATIBILITY_DATE>",
+	"compatibility_date": "2026-09-15",
+	"routes" : [{"pattern":"r.udbhavsai.com","custom_domain":true}],
 	"observability": {
 		"enabled": true,
 	},
