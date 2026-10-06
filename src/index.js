@@ -6,14 +6,14 @@ const Links = {
 	'/github': 'https://github.com/udbhav07',
 	'/portfolio': 'https://udbhavsai.com',
 	'/life':'https://udbhavsai.com/life',
-	'/instagram':'https://www.instagram.com/udbhavsai07?stkn=MThzbG8yMW81NzEzcw%3D%3D&utm_source=qr'
+	'/instagram':'https://www.instagram.com/udbhavsai07?stkn=MThzbG8yMW81NzEzcw%3D%3D&utm_source=qr',
 	'': 'https://udbhavsai.com',
 };
 
 const Aliases = {
 	'/linkedin': ['/linkdin'],
 	'/github': ['/git', '/gith'],
-	'/instagram':['/insta']
+	'/instagram':['/insta'],
 };
 
 // Flipped once at startup: alternate name → official key
